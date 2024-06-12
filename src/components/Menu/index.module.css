@@ -1,0 +1,15 @@
+.toolbox__container {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  padding: 20px;
+  border: 1px solid black;
+  width: 250px;
+  height: 50px;
+  position: absolute;
+  margin-top: 10px;
+  left: 40%;
+}
+.iconItem {
+  cursor: pointer;
+}
